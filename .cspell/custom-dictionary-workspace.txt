@@ -1,0 +1,10 @@
+# Custom Dictionary Words
+autoload
+Autoload
+autoloader
+fakerphp
+guzzlehttp
+laravel
+Laravel
+nunomaduro
+phpunit
